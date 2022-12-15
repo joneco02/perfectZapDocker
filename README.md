@@ -1,2 +1,0 @@
-# perfectZapDocker
-Wpp Zap docker
